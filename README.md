@@ -2,7 +2,7 @@
 Clone this repo and then move the toml file into your Alacritty config
 ```shell
 #For Linux
-git clone "Placeholder link" alienocean-alacritty
+git clone "https://codeberg.org/ParadiseOfMagic/Alienocean-alacritty" alienocean-alacritty
 mv alienocean-alacritty/alacritty/alienocean.toml ~/.config/alacritty
 ```
 Then add this line to your alacritty config
