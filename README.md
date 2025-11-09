@@ -15,3 +15,7 @@ import = [
 ## Special thanks
 Taught me how to make an Alacritty colourscheme.
 <a href="https://github.com/Roboron3042/Cyberpunk-Neon">Cyberpunk-Neon</a>
+
+## Other versions of this colourscheme
+<a href="https://codeberg.org/ParadiseOfMagic/Alienocean-lualine">Lualine theme</a>
+<a href="https://codeberg.org/ParadiseOfMagic/Alienocean.nvim">Neovim colourscheme</a>
